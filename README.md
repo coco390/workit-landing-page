@@ -1,0 +1,3 @@
+HTML and CSS Flexbox Practice: Recreating the Workit Landing Page
+
+In my journey into modern web design, I took on the Workit landing page challenge on Frontend Mentor. Recreating this project allowed me to sharpen my HTML and CSS skills, with a particular focus on Flexbox. Through this experience, I built a responsive, visually appealing landing page that adapts seamlessly to any device. Tackling real-world design problems and implementing clean, structured code helped me master layout techniques that distinguish me as a front-end developer. Joining the Frontend Mentor community was a pivotal step in advancing my skills and pursuing my passion for web development.
